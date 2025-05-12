@@ -1,0 +1,23 @@
+[
+    { "midiNote": 60, "clipName": "c1" },
+    { "midiNote": 60, "clipName": "c1" },
+    { "midiNote": 67, "clipName": "g1" },
+    { "midiNote": 67, "clipName": "g1" },
+    { "midiNote": 69, "clipName": "a1" },
+    { "midiNote": 69, "clipName": "a1" },
+    { "midiNote": 67, "clipName": "g1" },
+    { "midiNote": 65, "clipName": "f1" },
+    { "midiNote": 65, "clipName": "f1" },
+    { "midiNote": 64, "clipName": "e1" },
+    { "midiNote": 64, "clipName": "e1" },
+    { "midiNote": 62, "clipName": "d1" },
+    { "midiNote": 62, "clipName": "d1" },
+    { "midiNote": 60, "clipName": "c1" },
+    { "midiNote": 67, "clipName": "g1" },
+    { "midiNote": 67, "clipName": "g1" },
+    { "midiNote": 65, "clipName": "f1" },
+    { "midiNote": 65, "clipName": "f1" },
+    { "midiNote": 64, "clipName": "e1" },
+    { "midiNote": 64, "clipName": "e1" },
+    { "midiNote": 62, "clipName": "d1" }
+]
